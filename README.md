@@ -15,5 +15,5 @@
  13. 경제학
  14. Project
  15. Computer Science and Engineering (Course 6-3)<http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/>
-  1. 	Introduction to Computer Science Programming in Python ``6.001``
+   1. 	Introduction to Computer Science Programming in Python ``6.001``
    1.  What is Computation?
