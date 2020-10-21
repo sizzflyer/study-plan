@@ -21,3 +21,4 @@
       3.  String Manipulation, Guess and Check, Approximations, Bisection
       4.  Decomposition, Abstraction, and Functions
       5.  Tuples, Lists, Aliasing, Mutability, and Cloning
+      6.  Recursion and Dictionaries
