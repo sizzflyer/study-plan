@@ -22,3 +22,8 @@
       4.  Decomposition, Abstraction, and Functions
       5.  Tuples, Lists, Aliasing, Mutability, and Cloning
       6.  Recursion and Dictionaries
+      7.  Testing, Debugging, Exceptions, and Assertions
+      8.  Object Oriented Programming
+      9.  Python Classes and Inheritance
+      10. Understanding Program Efficiency, Part 1
+      
