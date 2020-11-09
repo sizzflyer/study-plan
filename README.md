@@ -1,18 +1,18 @@
 # study-plan
 2020
- 1. java
- 2. data structure
- 3. math
- 4. network
+ 1. java X
+ 2. data structure O
+ 3. math O
+ 4. network O
  5. javascript O
  6. SQL O
- 7. goLang
- 8. OOP
- 9. TDD
- 10. Algorithm
- 11. science(Physics, Chemistry)
+ 7. goLang O
+ 8. OOP O
+ 9. TDD O
+ 10. Algorithm O
+ 11. science(Physics, Chemistry) 
  12. 독서
- 13. 경제학
+ 13. 경제학 O
  14. Project
  15. [Computer Science and Engineering (Course 6-3)](http://catalog.mit.edu/degree-charts/computer-science-engineering-course-6-3/)<br>
     1. ``6.001`` Introduction to Computer Science Programming in Python 
