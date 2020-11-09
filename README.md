@@ -26,4 +26,7 @@
       8.  Object Oriented Programming
       9.  Python Classes and Inheritance
       10. Understanding Program Efficiency, Part 1
-      
+ 16. 운영체제
+ 17. 기계어, 어셈블리어
+ 18. 컴퓨터 구조론
+ 19. AI
